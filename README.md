@@ -14,6 +14,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=samridhikhosla&theme=tokyonight&hide_border=false)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=samridhikhosla&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 📫 Contact Me
+## 📫 Contact Me:
 - Email: samridhikhosla@gmail.com<br/>
 - LinkedIn: [linkedin.com/in/samridhikhosla](https://www.linkedin.com/in/samridhi-khosla/)
